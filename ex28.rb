@@ -17,4 +17,4 @@ def while_loop(max_size, addition)
 		puts num
 	end
 end
-while_loop(6, 2)
+while_loop(6,1)
