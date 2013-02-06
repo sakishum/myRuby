@@ -1,6 +1,7 @@
+# 2013年 1月25日 星期五 08时05分58秒 CST
 name1 = "Joe"
 name2 = "Mary"
-puts "Hello %s, where is %s?"  % [name1, name2]
+puts "Hello %s, where is %s?"  % [name2, name1]
 puts "Hello #{name1}, where is #{name2}?"
 
 x = "There are #{10} types of people."
